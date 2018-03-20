@@ -1,2 +1,5 @@
 **/mod-lib
 **/bin
+**/settings
+*.project
+*.classpath
