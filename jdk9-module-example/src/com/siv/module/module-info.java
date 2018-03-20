@@ -1,2 +1,2 @@
-module basic.module {
+module com.siv.module {
 }
