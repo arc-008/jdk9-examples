@@ -19,7 +19,7 @@
 
   	`java --module-path mods -m dependant/com.siv.dependant.Dependant`
 
-**Packing modules separately,
+**Packing modules separately**
   
 	`mkdir mod-lib`
   
