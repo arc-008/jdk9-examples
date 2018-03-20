@@ -1,6 +1,7 @@
 # jdk9-examples
 
-*Java 9 examples for :*
+### Java 9 collection examples for :
 
- 1. Immutable Collections
- 2. Modularization
+ 1. Map.of()
+ 2. Set.of()
+ 3. List.of()
