@@ -17,6 +17,4 @@
 
   `javac -d mods --module-source-path src $(find src -name "*.java")`
 
-  `find mods -type f`
-
   `java --module-path mods -m dependant/com.siv.dependant.Dependant`
