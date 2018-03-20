@@ -1,0 +1,3 @@
+module dependant {
+	requires dependable;
+}
