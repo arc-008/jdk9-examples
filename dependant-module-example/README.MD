@@ -30,6 +30,7 @@
 	ls mod-lib
 	
 	Now we can run using just the module name,
+	
 	java -p mod-lib -m dependant
 	
 	Note: Here `dependant` is not the jar name, it is the module name.
